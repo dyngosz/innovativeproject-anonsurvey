@@ -3,8 +3,8 @@ innovativeproject-anonsurvey
 
 Innovative Projects - Anonymous surveys
 
-Our goal was to create a safe and functional web app that will allow users to make anonymous surveys.
-Technologies used: NodeJS, MongoDB, Bootstrap
+Our goal was to create a safe and functional web app that will allow users to make anonymous surveys. <br>
+Technologies used: NodeJS, MongoDB, Bootstrap. <br>
 Current version of our app is available [here](https://magic-survey-app.herokuapp.com/).
  
  <h5> Authors </h5>
